@@ -69,22 +69,23 @@
 ## 🤝 Connect With Me
 
 <p align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 8px; padding: 8px; background-color: #0A66C2;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="36" height="36" style="filter: invert(1);" />
+  <a href="https://www.linkedin.com/in/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="36" height="36" />
   </a>
   
-  <a href="https://twitter.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 8px; padding: 8px; background-color: #1DA1F2;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="36" height="36" style="filter: invert(1);" />
+  <a href="https://twitter.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="36" height="36" />
   </a>
   
-  <a href="mailto:fahryan@example.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 8px; padding: 8px; background-color: #D14836;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="36" height="36" style="filter: invert(1);" />
+  <a href="mailto:fahryan@example.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="36" height="36" />
   </a>
   
-  <a href="https://github.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 8px; padding: 8px; background-color: #181717;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="36" height="36" style="filter: invert(1);" />
+  <a href="https://github.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="36" height="36" />
   </a>
 </p>
+
 
 ---
 
