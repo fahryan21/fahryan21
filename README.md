@@ -66,12 +66,27 @@
 
 ---
 
-## ☕ Little About Me
 
-- 🧑‍💻 Fokus di Web Dev dengan PHP & CodeIgniter  
-- 🎯 Sedang eksplorasi UI/UX design  
-- 🚀 Cita-cita bikin produk digital yang bermanfaat  
-- 📬 Email: **fahryan@example.com**
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahryan21" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin: 0 10px" />
+  </a>
+  
+  <a href="https://twitter.com/fahryan21" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30" style="margin: 0 10px" />
+  </a>
+  
+  <a href="mailto:fahryan@example.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30" style="margin: 0 10px" />
+  </a>
+  
+  <a href="https://github.com/fahryan21" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="margin: 0 10px" />
+  </a>
+</p>
 
 ---
 
