@@ -3,7 +3,7 @@
 
 🌱 Sedang fokus belajar dan membangun project real-world menggunakan **PHP 8.2**, **CodeIgniter 4**, dan **MySQL**  
 💼 Beberapa project bisa dilihat di [Projects](https://github.com/fahryan21?tab=projects)  
-📫 Hubungi saya di: **fahryan.ian21@gmail.com**
+📫 Hubungi saya di: **fahryan.ian21@gmail.com** 
 ⚡ Fun fact: Saya suka ngoding sambil dengerin musik🎧
 
 ---
