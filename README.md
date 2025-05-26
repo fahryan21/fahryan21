@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahryan Bagus Ananda</h1>
-<h3 align="center">💻 Web Developer | 💡 CodeIgniter & PHP Enthusiast | 🎨 UI/UX Explorer | 🤖 ML Explorer</h3>
+<h3 align="center">💻 Web Developer | 💡 CodeIgniter & PHP Enthusiast | 🎨 UI/UX Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F67280&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Welcome+to+my+GitHub!;Let's+build+something+awesome+💻" alt="Typing SVG" />
@@ -8,7 +8,6 @@
 ---
 
 ## 🌈 Tech Stack
-> Tools & teknologi yang sering saya gunakan
 
 <table align="center">
 <tr>
@@ -19,40 +18,41 @@
 </tr>
 <tr>
   <td align="center">
-    <img src="https://img.shields.io/badge/PHP-8EC5FC?style=for-the-badge&logo=php&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/CodeIgniter-FDC5F5?style=for-the-badge&logo=codeigniter&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+    <br>PHP
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" title="CodeIgniter"/>
+    <br>CodeIgniter
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/HTML5-FFC6AC?style=for-the-badge&logo=html5&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/CSS3-AEE2FF?style=for-the-badge&logo=css3&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/Bootstrap-DBC4F0?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+    <br>HTML5
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+    <br>CSS3
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+    <br>Bootstrap
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/MySQL-FFD6A5?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/phpMyAdmin-FFB5E8?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+    <br>MySQL
+    <br><br>
+    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" width="40" title="phpMyAdmin"/>
+    <br>phpMyAdmin
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/VSCode-C1EFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/Git-FFABAB?style=for-the-badge&logo=git&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/GitHub-D5AAFF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+    <br>VS Code
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+    <br>Git
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+    <br>GitHub
   </td>
 </tr>
 </table>
-
----
-
-## 🤖 Machine Learning Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FAD6A5?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF9AA2?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-FFDAC1?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-B5EAD7?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-C7CEEA?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-FFC6FF?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-D5AAFF?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-FEF6C9?style=for-the-badge&logo=jupyter&logoColor=black" />
-</p>
 
 ---
 
@@ -67,10 +67,9 @@
 
 ## ☕ Little About Me
 
-- 🧑‍💻 Fokus di Web Dev dengan PHP & CodeIgniter
-- 📈 Mulai belajar Machine Learning (Python, TensorFlow, dsb.)
-- 🎯 Sedang eksplorasi UI/UX design
-- 🚀 Cita-cita bikin produk digital yang bermanfaat
+- 🧑‍💻 Fokus di Web Dev dengan PHP & CodeIgniter  
+- 🎯 Sedang eksplorasi UI/UX design  
+- 🚀 Cita-cita bikin produk digital yang bermanfaat  
 - 📬 Email: **fahryan@example.com**
 
 ---
