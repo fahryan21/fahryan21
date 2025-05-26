@@ -65,28 +65,39 @@
 </div>
 
 ---
-
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+<p align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 8px; padding: 8px; background-color: #0A66C2; transition: transform 0.3s ease, background-color 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="36" height="36" style="filter: invert(1);" />
   </a>
   
-  <a href="https://twitter.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40" />
+  <a href="https://twitter.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 8px; padding: 8px; background-color: #1DA1F2; transition: transform 0.3s ease, background-color 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="36" height="36" style="filter: invert(1);" />
   </a>
   
-  <a href="mailto:fahryan@example.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40" />
+  <a href="mailto:fahryan@example.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 8px; padding: 8px; background-color: #D14836; transition: transform 0.3s ease, background-color 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="36" height="36" style="filter: invert(1);" />
   </a>
   
-  <a href="https://github.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" />
+  <a href="https://github.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 8px; padding: 8px; background-color: #181717; transition: transform 0.3s ease, background-color 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="36" height="36" style="filter: invert(1);" />
   </a>
 </p>
+
+<script>
+  // Script ini tidak akan berjalan di GitHub README, tapi kamu bisa gunakan CSS inline berikut untuk efek hover
+</script>
+
+<style>
+  a:hover {
+    transform: scale(1.15);
+    filter: brightness(1.2);
+    cursor: pointer;
+  }
+</style>
 
 ---
 
