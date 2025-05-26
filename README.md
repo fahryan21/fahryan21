@@ -66,25 +66,25 @@
 
 ---
 
-
+---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fahryan21" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin: 0 10px" />
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   
-  <a href="https://twitter.com/fahryan21" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30" style="margin: 0 10px" />
+  <a href="https://twitter.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40" />
   </a>
   
-  <a href="mailto:fahryan@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30" style="margin: 0 10px" />
+  <a href="mailto:fahryan@example.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40" />
   </a>
   
-  <a href="https://github.com/fahryan21" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="margin: 0 10px" />
+  <a href="https://github.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" />
   </a>
 </p>
 
