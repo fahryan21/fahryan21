@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahryan</h1>
+<h1 align="center">Hi 👋, I'm Fahryan Bagus Ananda</h1>
 <h3 align="center">Web Developer | CodeIgniter & PHP Enthusiast | UI/UX Explorer</h3>
 
 ---
