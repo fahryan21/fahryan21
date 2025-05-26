@@ -7,52 +7,25 @@
 
 ---
 
-## 🌈 Tech Stack
+## 💻 Tech Stack
 
-<table align="center">
-<tr>
-  <th>🧠 Backend</th>
-  <th>🎨 Frontend</th>
-  <th>🗄️ Database</th>
-  <th>🔧 Tools</th>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
-    <br>PHP
-    <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" title="CodeIgniter"/>
-    <br>CodeIgniter
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-    <br>HTML5
-    <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-    <br>CSS3
-    <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-    <br>Bootstrap
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-    <br>MySQL
-    <br><br>
-    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" width="40" title="phpMyAdmin"/>
-    <br>phpMyAdmin
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-    <br>VS Code
-    <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-    <br>Git
-    <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-    <br>GitHub
-  </td>
-</tr>
-</table>
+- 💻 **Backend**  
+  - PHP  
+  - CodeIgniter
+
+- 💻 **Frontend**  
+  - HTML5  
+  - CSS3  
+  - Bootstrap
+
+- 💻 **Database**  
+  - MySQL  
+  - phpMyAdmin
+
+- 💻 **Tools**  
+  - VS Code  
+  - Git  
+  - GitHub
 
 ---
 
