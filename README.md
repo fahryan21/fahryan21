@@ -63,7 +63,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahryan21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=fahryan21&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
----
 
 ---
 
