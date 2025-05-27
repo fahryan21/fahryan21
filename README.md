@@ -78,9 +78,6 @@
   <a href="https://www.linkedin.com/in/fahryan21" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="36" title="LinkedIn" style="margin: 0 10px;" />
   </a>
-  <a href="https://twitter.com/fahryan21" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="36" title="Twitter" style="margin: 0 10px;" />
-  </a>
   <a href="https://www.youtube.com/@fahryan21" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="36" title="YouTube" style="margin: 0 10px;" />
   </a>
