@@ -68,23 +68,30 @@
 
 ## 🤝 Connect With Me
 
-<p align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="36" height="36" />
+<p align="center">
+  <a href="https://www.facebook.com/fahryan21" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="36" title="Facebook" style="margin: 0 10px;" />
   </a>
-  
-  <a href="https://twitter.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="36" height="36" />
+  <a href="https://www.instagram.com/fahryan21" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="36" title="Instagram" style="margin: 0 10px;" />
   </a>
-  
-  <a href="mailto:fahryan@example.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="36" height="36" />
+  <a href="https://www.linkedin.com/in/fahryan21" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="36" title="LinkedIn" style="margin: 0 10px;" />
   </a>
-  
-  <a href="https://github.com/fahryan21" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="36" height="36" />
+  <a href="https://twitter.com/fahryan21" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="36" title="Twitter" style="margin: 0 10px;" />
+  </a>
+  <a href="https://www.youtube.com/@fahryan21" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="36" title="YouTube" style="margin: 0 10px;" />
+  </a>
+  <a href="mailto:fahryan@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="36" title="Email" style="margin: 0 10px;" />
+  </a>
+  <a href="https://github.com/fahryan21" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="36" title="GitHub" style="margin: 0 10px;" />
   </a>
 </p>
+
 
 
 ---
