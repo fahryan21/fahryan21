@@ -75,7 +75,7 @@
   <a href="https://www.instagram.com/fahryan21" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="36" title="Instagram" style="margin: 0 10px;" />
   </a>
-  <a href="[https://www.linkedin.com/in/fahryan21](https://www.linkedin.com/in/fahryan-bagus-ananda-470a30316/)" target="_blank">
+  <a href="https://www.linkedin.com/in/fahryan-bagus-ananda-470a30316/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="36" title="LinkedIn" style="margin: 0 10px;" />
   </a>
   <a href="https://www.youtube.com/@fahryan21" target="_blank">
