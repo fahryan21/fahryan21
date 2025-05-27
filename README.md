@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahryan Bagus Ananda</h1>
-<h3 align="center">💻 Web Developer | 💡 CodeIgniter & PHP Enthusiast | 🎨 UI/UX Explorer</h3>
+<h3 align="center"> Web Developer | CodeIgniter & PHP Enthusiast | UI/UX Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F67280&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Welcome+to+my+GitHub!;Let's+build+something+awesome+💻" alt="" />
